@@ -6,6 +6,7 @@ This repo was created for the answers to the interview questions of the metrobi 
 2. node xxxx.js      
 
 ```bash
+// example
 cd Question-1
 node duplicate.js    
 ```
